@@ -12,6 +12,7 @@ Tambien me gusta ya que el desarrolo de los personajes es muy bueno y no es una 
 2.  *vi, La campeona del LoL sale como una de las principales protagonistas de la serie, que arranca como criminal en Zaun y se cuenta cómo termina siendo una protectora en Piltover.
 3.   *Jayce, Jayce también sale y es uno de los protagonistas de la serie, sobre todo por la trama de los cristales Hextech, y se conoce su faceta política además de inventor.
 4.    *Jinx, Aunque sale su pasado como Powder (no está confirmado pero todo indica que es ella), Jinx es una de las principales protagonistas de Arcane y se cuenta toda su historia.
+5.    (- Mel, Mel es otro de los personajes principales, y miembro de una de las familias más ricas de Runaterra. Es líder de la ciudad de Piltover.)
 
 
 
